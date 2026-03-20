@@ -31,9 +31,12 @@ python main.py
 
 * Hands-on experience with Selenium automation
 * Understanding of DOM interaction and dynamic elements
-* Implementation of basic decision-making logic
+* Implementation of decision-making logic
+
+## 👨‍💻 Author
+
+**Sonu Kumar Kushwaha**
 
 ## 📌 Note
 
 This project is created for educational purposes and demonstrates browser automation concepts.
-
