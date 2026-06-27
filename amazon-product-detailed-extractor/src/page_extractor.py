@@ -45,5 +45,7 @@ def get_page_urls(product_name):
 
 
 if __name__ == "__main__":
-    product_name = "laptop"
-    print(get_page_urls(product_name))
+    # FOR TESTING PURPOSES ONLY
+    # product_name = "laptop"
+    # print(get_page_urls(product_name))
+    pass

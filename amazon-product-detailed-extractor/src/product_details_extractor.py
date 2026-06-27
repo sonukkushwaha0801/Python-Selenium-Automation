@@ -22,6 +22,7 @@ def get_product_details(product_urls):
                 "policy": "",
                 "specifications": "",
                 "about_item": "",
+                "url": url,
             }
 
             # Product Name
@@ -95,6 +96,11 @@ def get_product_details(product_urls):
                 product_data["about_item"] = " | ".join(about)
             except:
                 pass
+
+            # URL
+            product_data["url"] = url
+
+            # Append the product data to the list of all products
 
             all_products.append(product_data)
 
