@@ -1,6 +1,6 @@
 # Gmail Login Validator
 
-![Gmail_Banner](/assests/Banner.webp)
+![Gmail_Banner](assests/Banner.webp)
 
 ## Overview
 
