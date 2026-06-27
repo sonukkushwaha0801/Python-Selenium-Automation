@@ -116,7 +116,7 @@ Extract Product Details
         ↓
 Export to Excel
 ```
-![terminal-output](/assets/terminal-output.png)
+![terminal-output](./assets/terminal-output.png)
 ---
 
 ## Installation
@@ -205,7 +205,7 @@ The final Excel sheet contains:
 | Name | Discounted Price | MRP | Policy | Specifications | About Item |
 | ---- | ---------------- | --- | ------ | -------------- | ---------- |
 
-![The scraper exports structured product data into an Excel file.](/assets/excel-output.png)
+![The scraper exports structured product data into an Excel file.](./assets/excel-output.png)
 ---
 
 ## Key Challenges Solved
